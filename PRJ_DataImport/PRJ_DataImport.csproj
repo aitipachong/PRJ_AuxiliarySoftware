@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\ImportKeyrolesData.cs" />
     <Compile Include="Common\DBUtility\MySqlHelper.cs" />
     <Compile Include="Common\ExcelHelper.cs" />
     <Compile Include="FrmMain.cs">
