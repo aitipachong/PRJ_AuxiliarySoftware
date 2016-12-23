@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRJ_DataImport", "PRJ_DataI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT_PRJ_DataImport", "UT_PRJ_DataImport\UT_PRJ_DataImport.csproj", "{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 关键角色导入的Excel", "02 关键角色导入的Excel", "{EDBE47FA-1724-409B-BAC2-7D6F9CFFE760}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\01 Documents\00.4 Bug单\01 导入”关键绝色“到数据库对应表\项目关键角色清单、能力评估及规划（11月）-V2.0.xlsx = ..\..\..\01 Documents\00.4 Bug单\01 导入”关键绝色“到数据库对应表\项目关键角色清单、能力评估及规划（11月）-V2.0.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
