@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 数据导入第三方软
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRJ_DataImport", "PRJ_DataImport\PRJ_DataImport.csproj", "{AA752EBD-0360-4E14-A0ED-BF46627B5AAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT_PRJ_DataImport", "UT_PRJ_DataImport\UT_PRJ_DataImport.csproj", "{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{AA752EBD-0360-4E14-A0ED-BF46627B5AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA752EBD-0360-4E14-A0ED-BF46627B5AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA752EBD-0360-4E14-A0ED-BF46627B5AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AA752EBD-0360-4E14-A0ED-BF46627B5AAC} = {FDF8C690-6D2A-4C49-B7DC-67367A67F58F}
+		{54706CDA-E4C6-41B0-9E8A-BB97D5B8F2ED} = {FDF8C690-6D2A-4C49-B7DC-67367A67F58F}
 	EndGlobalSection
 EndGlobal
